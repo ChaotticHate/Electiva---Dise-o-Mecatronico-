@@ -1,0 +1,42 @@
+[2021-10-04 13.57.56] Successfully created [AutoSave] backup [2021-10-04 13.57.55 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-10-04 17.57.55] Successfully created [AutoSave] backup [2021-10-04 17.57.55 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-10-04 21.57.55] Successfully created [AutoSave] backup [2021-10-04 21.57.55 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-10-10 23.44.58] Successfully created [AutoSave] backup [2021-10-10 23.44.58 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-10-10 23.44.58] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-10-04 13.57.55 - auto.zip].
+[2021-10-10 23.44.58] [AutoSave] backup file [PRUEBA\ProjectBackup\backups\2021-10-04 13.57.55 - auto.zip] removed.
+[2021-10-11 14.12.30] Successfully created [AutoSave] backup [2021-10-11 14.12.30 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-10-11 14.12.30] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-10-04 17.57.55 - auto.zip].
+[2021-10-11 14.12.30] [AutoSave] backup file [PRUEBA\ProjectBackup\backups\2021-10-04 17.57.55 - auto.zip] removed.
+[2021-10-11 18.12.30] Successfully created [AutoSave] backup [2021-10-11 18.12.30 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-10-11 18.12.30] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-10-04 21.57.55 - auto.zip].
+[2021-10-11 18.12.30] [AutoSave] backup file [PRUEBA\ProjectBackup\backups\2021-10-04 21.57.55 - auto.zip] removed.
+[2021-10-11 22.12.30] Successfully created [AutoSave] backup [2021-10-11 22.12.30 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-10-11 22.12.30] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-10-10 23.44.58 - auto.zip].
+[2021-10-11 22.12.30] [AutoSave] backup file [PRUEBA\ProjectBackup\backups\2021-10-10 23.44.58 - auto.zip] removed.
+[2021-10-18 22.17.12] Successfully created [AutoSave] backup [2021-10-18 22.17.11 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-10-18 22.17.12] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-10-11 14.12.30 - auto.zip].
+[2021-10-18 22.17.12] [AutoSave] backup file [PRUEBA\ProjectBackup\backups\2021-10-11 14.12.30 - auto.zip] removed.
+[2021-10-29 22.31.33] Successfully created [AutoSave] backup [2021-10-29 22.31.32 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-10-29 22.31.33] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-10-11 18.12.30 - auto.zip].
+[2021-10-29 22.31.33] [AutoSave] backup file [PRUEBA\ProjectBackup\backups\2021-10-11 18.12.30 - auto.zip] removed.
+[2021-11-05 21.42.48] Successfully created [AutoSave] backup [2021-11-05 21.42.47 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-11-05 21.42.48] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-10-11 22.12.30 - auto.zip].
+[2021-11-05 21.42.48] [AutoSave] backup file [PRUEBA\ProjectBackup\backups\2021-10-11 22.12.30 - auto.zip] removed.
+[2021-11-15 19.20.31] Successfully created [AutoSave] backup [2021-11-15 19.20.31 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-11-15 19.20.31] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-10-18 22.17.11 - auto.zip].
+[2021-11-15 19.20.31] [AutoSave] backup file [PRUEBA\ProjectBackup\backups\2021-10-18 22.17.11 - auto.zip] removed.
+[2021-11-22 12.12.45] Successfully created [AutoSave] backup [2021-11-22 12.12.45 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-11-22 12.12.45] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-10-29 22.31.32 - auto.zip].
+[2021-11-22 12.12.45] [AutoSave] backup file [PRUEBA\ProjectBackup\backups\2021-10-29 22.31.32 - auto.zip] removed.
+[2021-11-22 16.12.45] Successfully created [AutoSave] backup [2021-11-22 16.12.45 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-11-22 16.12.45] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-11-05 21.42.47 - auto.zip].
+[2021-11-22 16.12.45] [AutoSave] backup file [PRUEBA\ProjectBackup\backups\2021-11-05 21.42.47 - auto.zip] removed.
+[2021-11-27 18.38.46] Successfully created [AutoSave] backup [2021-11-27 18.38.46 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-11-27 18.38.46] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-11-15 19.20.31 - auto.zip].
+[2021-11-27 18.38.46] [AutoSave] backup file [PRUEBA\ProjectBackup\backups\2021-11-15 19.20.31 - auto.zip] removed.
+[2021-11-27 22.38.46] Successfully created [AutoSave] backup [2021-11-27 22.38.46 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-11-27 22.38.46] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-11-22 12.12.45 - auto.zip].
+[2021-11-27 22.38.46] [AutoSave] backup file [PRUEBA\ProjectBackup\backups\2021-11-22 12.12.45 - auto.zip] removed.
+[2021-11-28 21.35.43] Successfully created [AutoSave] backup [2021-11-28 21.35.43 - auto.zip] requested by [LAPTOP-SD3FN94I:Engels Garcia].
+[2021-11-28 21.35.43] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-11-22 16.12.45 - auto.zip].
+[2021-11-28 21.35.43] [AutoSave] backup file [PRUEBA\ProjectBackup\backups\2021-11-22 16.12.45 - auto.zip] removed.

@@ -1,0 +1,87 @@
+[2021.10.05 01:18:53] [0674m.02s.166ms] [1] SC[6]: UnRegistered sub-client [SAE] with ID [51] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:18:53] [0674m.02s.189ms] [1] SC[6]: Registered sub-client [SAE] with ID [52] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:19:02] [0674m.10s.799ms] [1] SC[6]: UnRegistered sub-client [SAE] with ID [52] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:19:02] [0674m.10s.802ms] [1] SC[6]: Registered sub-client [SAE] with ID [53] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:19:11] [0674m.20s.160ms] [1] SC[6]: UnRegistered sub-client [SAE] with ID [53] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:19:11] [0674m.20s.164ms] [1] SC[6]: Registered sub-client [SAE] with ID [54] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:19:16] [0674m.24s.673ms] [1] SC[6]: UnRegistered sub-client [SAE] with ID [54] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:19:16] [0674m.24s.677ms] [1] SC[6]: Registered sub-client [SAE] with ID [55] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:19:17] [0674m.25s.680ms] [1] SC[6]: UnRegistered sub-client [SAE] with ID [55] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:19:17] [0674m.25s.684ms] [1] SC[6]: Registered sub-client [SAE] with ID [56] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:19:17] [0674m.26s.290ms] [1] SC[6]: UnRegistered sub-client [SAE] with ID [56] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:19:17] [0674m.26s.293ms] [1] SC[6]: Registered sub-client [SAE] with ID [57] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:08] [0675m.17s.089ms] [1] SC[6]: UnRegistered sub-client [SystemDesignDll] with ID [9] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:08] [0675m.17s.327ms] [1] SC[6]: UnRegistered sub-client [DesignSearcher2] with ID [10] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:09] [0675m.17s.543ms] [1] SC[6]: UnRegistered sub-client [GlobalNetAliasUpdater_617627480] with ID [35] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:09] [0675m.17s.543ms] [1] SC[6]: UnRegistered sub-client [BlockCacheDxD:608951744] with ID [34] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:09] [0675m.17s.544ms] [1] SC[6]: UnRegistered sub-client [ObjectHolder_617628832] with ID [33] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:09] [0675m.17s.545ms] [1] SC[6]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:608736472] with ID [36] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:09] [0675m.18s.096ms] [1] SC[6]: UnRegistered sub-client [Navigator] with ID [12] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:09] [0675m.18s.107ms] [1] SC[6]: UnRegistered sub-client [FFSSelListener] with ID [17] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:09] [0675m.18s.204ms] [1] SC[6]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:09] [0675m.18s.313ms] [1] SC[6]: UnRegistered sub-client [FFSearch_RBHost] with ID [15] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:09] [0675m.18s.346ms] [1] SC[6]: UnRegistered sub-client [MyParts] with ID [22] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:09] [0675m.18s.470ms] [1] SC[6]: UnRegistered sub-client [toolboxes] with ID [24] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:10] [0675m.18s.556ms] [1] SC[6]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:10] [0675m.18s.558ms] [1] SC[6]: UnRegistered sub-client [PartReplaceUtils] with ID [29] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:10] [0675m.18s.558ms] [1] SC[6]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:11] [0675m.19s.690ms] [1] SC[6]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:448845320] with ID [26] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:11] [0675m.19s.692ms] [1] SC[6]: UnRegistered sub-client [Core::NetFlatData-4668] with ID [7] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:11] [0675m.19s.693ms] [1] SC[6]: UnRegistered sub-client [BlockCacheDxD:65239904] with ID [6] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:11] [0675m.19s.693ms] [1] SC[6]: UnRegistered sub-client [Core::DesignListener-318864528-0] with ID [5] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:11] [0675m.19s.693ms] [1] SC[6]: UnRegistered sub-client [SheetConnectorsCacheDxD:1633370699] with ID [27] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:11] [0675m.19s.694ms] [1] SC[6]: UnRegistered sub-client [NetsNamesCollectorDxD:1633370699] with ID [28] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:11] [0675m.19s.703ms] [1] SC[6]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:11] [0675m.19s.704ms] [1] SC[6]: UnRegistered sub-client [DxD] with ID [1] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:11] [0675m.19s.717ms] [1] SC[6]: UnRegistered sub-client [xprob] with ID [31] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:11] [0675m.19s.717ms] [1] SC[6]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:11] [0675m.19s.737ms] [1] SC[6]: UnRegistered sub-client [OutputWindow] with ID [13] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:11] [0675m.19s.921ms] [1] SC[6]: UnRegistered sub-client [DxDbSearch] with ID [37] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:11] [0675m.19s.931ms] [1] SC[6]: UnRegistered sub-client [SAE] with ID [57] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:11] [0675m.19s.959ms] [1] SC[6]: UnRegistered sub-client [CCZAddin] with ID [20] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:11] [0675m.19s.967ms] [1] SC[6]: UnRegistered sub-client [DxThumbnails] with ID [21] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:16] [0675m.24s.948ms] [1] SC[6]: UnRegistered sub-client [DxConstraints] with ID [19] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:16] [0675m.25s.000ms] [1] SC[6]: UnRegistered sub-client [PinsList] with ID [23] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:16] [0675m.25s.161ms] [1] SC[6]: UnRegistered sub-client [PlaceDevice] with ID [14] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:16] [0675m.25s.179ms] [1] SC[6]: UnRegistered sub-client [IBDInstanceDialog] with ID [25] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:16] [0675m.25s.189ms] [1] SC[6]: UnRegistered sub-client [HdlProject] with ID [11] for session ID [6] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [15552]
+[2021.10.05 01:20:16] [0675m.25s.252ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\PADS Projects\DxProjects\PRUEBA\database\s1\cdbcatlg\catlgatl.v] - auto-saving it
+[2021.10.05 01:20:16] [0675m.25s.252ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\PADS Projects\DxProjects\PRUEBA\database\s1\cdbcatlg\grpobj] - auto-saving it
+[2021.10.05 01:20:16] [0675m.25s.252ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\PADS Projects\DxProjects\PRUEBA\database\s1\cdbcmpcache\cmpatl.v] - auto-saving it
+[2021.10.05 01:20:16] [0675m.25s.252ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\PADS Projects\DxProjects\PRUEBA\database\s1\cdbcmpcache\dxdatl.v] - auto-saving it
+[2021.10.05 01:20:16] [0675m.25s.252ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\PADS Projects\DxProjects\PRUEBA\database\s1\uids] - auto-saving it
+[2021.10.05 01:20:16] [0675m.25s.254ms] [1] CMT: Removed client [6]
+[2021.10.05 01:20:16] [0675m.25s.254ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.10.05 01:20:16] [0675m.25s.464ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2021.10.05 01:20:18] [0675m.26s.582ms] [0] CMT: Starting server auto-close
+[2021.10.05 01:20:18] [0675m.26s.614ms] [0] S: Closing server
+[2021.10.05 01:20:18] [0675m.26s.738ms] [0] iCDB Server PI: Closing plugins
+[2021.10.05 01:20:18] [0675m.26s.741ms] [0] iCDB Server PI: Plugins closed
+[2021.10.05 01:20:18] [0675m.26s.741ms] [0] iCDB Server PI: Unloading database
+[2021.10.05 01:20:18] [0675m.26s.741ms] [0] iCDB Server PI: Saving storage
+[2021.10.05 01:20:18] [0675m.26s.741ms] [0] iCDB Server PI: Closing database
+[2021.10.05 01:20:18] [0675m.26s.744ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[85%] data[60%]
+[2021.10.05 01:20:18] [0675m.26s.744ms] [1] iCDB Server PI: Stats: Database file size [237768 (232.2 kB)]
+[2021.10.05 01:20:18] [0675m.26s.747ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2021.10.05 01:20:18] [0675m.26s.757ms] [0] iCDB Server PI: Database closed
+[2021.10.05 01:20:18] [0675m.26s.757ms] [0] iCDB Server PI: Defragmenting database
+[2021.10.05 01:20:18] [0675m.26s.758ms] [0] iCDB Server PI: Creating database [C:\PADS Projects\DxProjects\PRUEBA\database] backup to file [C:\PADS Projects\DxProjects\PRUEBA\database\cdbback\2021-10-05 01.20.18-14368-d.zip]
+[2021.10.05 01:20:18] [0675m.26s.780ms] [0] iCDB Server PI: Database backup: DONE
+[2021.10.05 01:20:18] [0675m.26s.791ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.05 01:20:18] [0675m.26s.791ms] [0] Database GUARD OK: [237768]
+[2021.10.05 01:20:18] [0675m.26s.791ms] [0] SingleFile: [3d02-bdb3-16b4-c5bd] SFI version check [1009] [1009]
+[2021.10.05 01:20:18] [0675m.26s.793ms] [0] SingleFile: [3d02-bdb3-16b4-c5bd] Database SFI header has been read in [2ms 54us]
+[2021.10.05 01:20:18] [0675m.26s.809ms] [1] iCDB Server PI: Stats: Database file sizes: before[237768 (232.2 kB)], after[117296 (114.5 kB)], gain[120472 (117.6 kB)]
+[2021.10.05 01:20:18] [0675m.26s.812ms] [0] Single file [C:\PADS Projects\DxProjects\PRUEBA\database\icdb.dat] closed with size [117296 (114.5 kB)]
+[2021.10.05 01:20:18] [0675m.26s.817ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2021.10.05 01:20:18] [0675m.26s.817ms] [1] BackupTransaction: Removing database backup [C:\PADS Projects\DxProjects\PRUEBA\database\cdbback\2021-10-05 01.20.18-14368-d.zip]
+[2021.10.05 01:20:18] [0675m.26s.817ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [18361707] ticks
+[2021.10.05 01:20:18] [0675m.26s.817ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1836170] microseconds
+[2021.10.05 01:20:18] [0675m.26s.818ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [5168]
+[2021.10.05 01:20:18] [0675m.26s.818ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [2814] commands per second
+[2021.10.05 01:20:18] [0675m.26s.818ms] [1] iCDB Server PI: Stats: Mem[33718272]
+[2021.10.05 01:20:18] [0675m.26s.818ms] [1] iCDB Server PI: Stats: MemPeak[41910272]
+[2021.10.05 01:20:18] [0675m.26s.864ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2021.10.05 01:20:18] [0675m.27s.053ms] [0] MWT: Destroy the shutdown block reason.
+[2021.10.05 01:20:18] [0675m.27s.054ms] [0] MWT: STOP
+[2021.10.05 01:20:18] [0675m.27s.054ms] [0] S: STOP

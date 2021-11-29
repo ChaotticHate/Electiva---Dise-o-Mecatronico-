@@ -1,0 +1,70 @@
+[2021.10.11 02:06:15] [0141m.17s.014ms] [1] SC[8]: UnRegistered sub-client [SystemDesignDll] with ID [9] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:15] [0141m.17s.344ms] [1] SC[8]: UnRegistered sub-client [DesignSearcher2] with ID [10] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:15] [0141m.17s.420ms] [1] SC[8]: UnRegistered sub-client [GlobalNetAliasUpdater_628442544] with ID [35] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:15] [0141m.17s.420ms] [1] SC[8]: UnRegistered sub-client [BlockCacheDxD:628457984] with ID [34] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:15] [0141m.17s.421ms] [1] SC[8]: UnRegistered sub-client [ObjectHolder_628442440] with ID [33] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:15] [0141m.17s.422ms] [1] SC[8]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:628405992] with ID [36] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:15] [0141m.17s.907ms] [1] SC[8]: UnRegistered sub-client [Navigator] with ID [12] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:15] [0141m.17s.911ms] [1] SC[8]: UnRegistered sub-client [FFSSelListener] with ID [17] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:16] [0141m.17s.991ms] [1] SC[8]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:16] [0141m.18s.084ms] [1] SC[8]: UnRegistered sub-client [FFSearch_RBHost] with ID [15] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:16] [0141m.18s.105ms] [1] SC[8]: UnRegistered sub-client [MyParts] with ID [22] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:16] [0141m.18s.628ms] [1] SC[8]: UnRegistered sub-client [toolboxes] with ID [24] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:16] [0141m.18s.684ms] [1] SC[8]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:16] [0141m.18s.685ms] [1] SC[8]: UnRegistered sub-client [PartReplaceUtils] with ID [29] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:16] [0141m.18s.685ms] [1] SC[8]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:17] [0141m.19s.562ms] [1] SC[8]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:617138024] with ID [26] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:17] [0141m.19s.567ms] [1] SC[8]: UnRegistered sub-client [Core::NetFlatData-17040] with ID [7] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:17] [0141m.19s.568ms] [1] SC[8]: UnRegistered sub-client [BlockCacheDxD:451587656] with ID [6] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:17] [0141m.19s.569ms] [1] SC[8]: UnRegistered sub-client [Core::DesignListener-451587800-0] with ID [5] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:17] [0141m.19s.570ms] [1] SC[8]: UnRegistered sub-client [SheetConnectorsCacheDxD:1633923902] with ID [27] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:17] [0141m.19s.571ms] [1] SC[8]: UnRegistered sub-client [NetsNamesCollectorDxD:1633923902] with ID [28] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:17] [0141m.19s.589ms] [1] SC[8]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:17] [0141m.19s.591ms] [1] SC[8]: UnRegistered sub-client [DxD] with ID [1] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:17] [0141m.19s.611ms] [1] SC[8]: UnRegistered sub-client [xprob] with ID [31] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:17] [0141m.19s.612ms] [1] SC[8]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:17] [0141m.19s.621ms] [1] SC[8]: UnRegistered sub-client [OutputWindow] with ID [13] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:17] [0141m.19s.755ms] [1] SC[8]: UnRegistered sub-client [DxDbSearch] with ID [37] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:17] [0141m.19s.762ms] [1] SC[8]: UnRegistered sub-client [SAE] with ID [18] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:17] [0141m.19s.785ms] [1] SC[8]: UnRegistered sub-client [CCZAddin] with ID [20] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:17] [0141m.19s.791ms] [1] SC[8]: UnRegistered sub-client [DxThumbnails] with ID [21] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:23] [0141m.25s.725ms] [1] SC[8]: UnRegistered sub-client [DxConstraints] with ID [19] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:23] [0141m.25s.772ms] [1] SC[8]: UnRegistered sub-client [PinsList] with ID [23] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:23] [0141m.25s.851ms] [1] SC[8]: UnRegistered sub-client [PlaceDevice] with ID [14] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:23] [0141m.25s.901ms] [1] SC[8]: UnRegistered sub-client [IBDInstanceDialog] with ID [25] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:23] [0141m.25s.910ms] [1] SC[8]: UnRegistered sub-client [HdlProject] with ID [11] for session ID [8] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [14536]
+[2021.10.11 02:06:23] [0141m.25s.950ms] [1] CMT: Removed client [8]
+[2021.10.11 02:06:23] [0141m.25s.950ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.10.11 02:06:24] [0141m.26s.169ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2021.10.11 02:06:25] [0141m.27s.047ms] [0] CMT: Starting server auto-close
+[2021.10.11 02:06:25] [0141m.27s.110ms] [0] S: Closing server
+[2021.10.11 02:06:25] [0141m.27s.203ms] [0] iCDB Server PI: Closing plugins
+[2021.10.11 02:06:25] [0141m.27s.206ms] [0] iCDB Server PI: Plugins closed
+[2021.10.11 02:06:25] [0141m.27s.206ms] [0] iCDB Server PI: Unloading database
+[2021.10.11 02:06:25] [0141m.27s.206ms] [0] iCDB Server PI: Saving storage
+[2021.10.11 02:06:25] [0141m.27s.206ms] [0] iCDB Server PI: Closing database
+[2021.10.11 02:06:25] [0141m.27s.214ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[73%] data[72%]
+[2021.10.11 02:06:25] [0141m.27s.214ms] [1] iCDB Server PI: Stats: Database file size [332560 (324.8 kB)]
+[2021.10.11 02:06:25] [0141m.27s.218ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2021.10.11 02:06:25] [0141m.27s.236ms] [0] iCDB Server PI: Database closed
+[2021.10.11 02:06:25] [0141m.27s.237ms] [0] iCDB Server PI: Defragmenting database
+[2021.10.11 02:06:25] [0141m.27s.237ms] [0] iCDB Server PI: Creating database [C:\PADS Projects\DxProjects\PRUEBA\database] backup to file [C:\PADS Projects\DxProjects\PRUEBA\database\cdbback\2021-10-11 02.06.25-9488-d.zip]
+[2021.10.11 02:06:25] [0141m.27s.266ms] [0] iCDB Server PI: Database backup: DONE
+[2021.10.11 02:06:25] [0141m.27s.281ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.11 02:06:25] [0141m.27s.281ms] [0] Database GUARD OK: [332560]
+[2021.10.11 02:06:25] [0141m.27s.281ms] [0] SingleFile: [3d02-bdb3-16b4-c5bd] SFI version check [1009] [1009]
+[2021.10.11 02:06:25] [0141m.27s.285ms] [0] SingleFile: [3d02-bdb3-16b4-c5bd] Database SFI header has been read in [3ms 658us]
+[2021.10.11 02:06:25] [0141m.27s.306ms] [1] iCDB Server PI: Stats: Database file sizes: before[332560 (324.8 kB)], after[176560 (172.4 kB)], gain[156000 (152.3 kB)]
+[2021.10.11 02:06:25] [0141m.27s.310ms] [0] Single file [C:\PADS Projects\DxProjects\PRUEBA\database\icdb.dat] closed with size [176560 (172.4 kB)]
+[2021.10.11 02:06:25] [0141m.27s.314ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2021.10.11 02:06:25] [0141m.27s.314ms] [1] BackupTransaction: Removing database backup [C:\PADS Projects\DxProjects\PRUEBA\database\cdbback\2021-10-11 02.06.25-9488-d.zip]
+[2021.10.11 02:06:25] [0141m.27s.315ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [8256877] ticks
+[2021.10.11 02:06:25] [0141m.27s.315ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [825687] microseconds
+[2021.10.11 02:06:25] [0141m.27s.315ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [2760]
+[2021.10.11 02:06:25] [0141m.27s.315ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [3342] commands per second
+[2021.10.11 02:06:25] [0141m.27s.315ms] [1] iCDB Server PI: Stats: Mem[33796096]
+[2021.10.11 02:06:25] [0141m.27s.315ms] [1] iCDB Server PI: Stats: MemPeak[43958272]
+[2021.10.11 02:06:25] [0141m.27s.391ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2021.10.11 02:06:25] [0141m.27s.549ms] [0] MWT: Destroy the shutdown block reason.
+[2021.10.11 02:06:25] [0141m.27s.552ms] [0] MWT: STOP
+[2021.10.11 02:06:25] [0141m.27s.552ms] [0] S: STOP

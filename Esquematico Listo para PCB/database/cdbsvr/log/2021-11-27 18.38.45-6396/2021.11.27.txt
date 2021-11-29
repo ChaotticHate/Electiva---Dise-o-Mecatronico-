@@ -1,0 +1,203 @@
+[2021.11.27 18:38:45] [0000m.00s.051ms] [0] WELCOME
+[2021.11.27 18:38:45] [0000m.00s.052ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.11.27 18:38:45] [0000m.00s.053ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.11.27 18:38:45] [0000m.00s.053ms] [1] Base flow version [VX.2.7]
+[2021.11.27 18:38:45] [0000m.00s.053ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.11.27 18:38:45] [0000m.00s.053ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.11.27 18:38:45] [0000m.00s.067ms] [1] Machine [LAPTOP-SD3FN94I]  IP [127.0.0.1,192.168.0.14]  User [Engels Garcia]  PID [6396]
+[2021.11.27 18:38:45] [0000m.00s.067ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 19042)]
+[2021.11.27 18:38:45] [0000m.00s.067ms] [1] Current working dir [C:\PADS Projects\DxProjects\PRUEBA]
+[2021.11.27 18:38:45] [0000m.00s.067ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\MinGW\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Users\Engels Garcia\AppData\Local\Microsoft\WindowsApps;C:\Users\Engels Garcia\AppData\Local\Programs\Microsoft VS Code Insiders\bin]
+[2021.11.27 18:38:45] [0000m.00s.067ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.11.27 18:38:45] [0000m.00s.067ms] [1] SDD_PLATFORM [win32]
+[2021.11.27 18:38:45] [0000m.00s.067ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.11.27 18:38:45] [0000m.00s.067ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.11.27 18:38:45] [0000m.00s.068ms] [2] S: Loading config files
+[2021.11.27 18:38:45] [0000m.00s.099ms] [1] Config file [C:\PADS Projects\DxProjects\PRUEBA\database\cdbsvr\Server.cfg] not found
+[2021.11.27 18:38:45] [0000m.00s.102ms] [3] S: Config loaded
+[2021.11.27 18:38:45] [0000m.00s.112ms] [0] S: Project path [C:\PADS Projects\DxProjects\PRUEBA\database] on file system [NTFS]
+[2021.11.27 18:38:45] [0000m.00s.112ms] [0] S: Project file (.prj) path [C:\PADS Projects\DxProjects\PRUEBA\PRUEBA.prj] on file system [NTFS]
+[2021.11.27 18:38:45] [0000m.00s.113ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.11.27 18:38:45] [0000m.00s.113ms] [0] S: Single-user mode (auto)
+[2021.11.27 18:38:45] [0000m.00s.113ms] [0] S: Event polling mode autodetection
+[2021.11.27 18:38:45] [0000m.00s.116ms] [0] S: Started up automatically by iCDB Client: LAPTOP-SD3FN94I:Engels Garcia:12024
+[2021.11.27 18:38:45] [0000m.00s.116ms] [0] S: Auto close mode
+[2021.11.27 18:38:45] [0000m.00s.116ms] [0] S: Database ID [9e79-a54d-8fb3-8652-dc46-2513-d462-5160-d142-e263-b19e-edfa]
+[2021.11.27 18:38:45] [0000m.00s.116ms] [0] PathTranslator: BEGIN dumping
+[2021.11.27 18:38:45] [0000m.00s.116ms] [0] PathTranslator: Local -> global path prefix list
+[2021.11.27 18:38:45] [0000m.00s.116ms] [0] PathTranslator: Global -> local path prefix list
+[2021.11.27 18:38:45] [0000m.00s.116ms] [0] PathTranslator: END dumping
+[2021.11.27 18:38:45] [0000m.00s.116ms] [0] S: START
+[2021.11.27 18:38:45] [0000m.00s.117ms] [0] S: Server startup lock file created
+[2021.11.27 18:38:45] [0000m.00s.118ms] [0] S: Listening for client connections on port [10001]
+[2021.11.27 18:38:45] [0000m.00s.129ms] [0] S: Server network ID [LAPTOP-SD3FN94I:192.168.0.14,LAPTOP-SD3FN94I:10001]
+[2021.11.27 18:38:45] [0000m.00s.129ms] [0] S: Server GUID [e2a7-fb43-b88f-db4a-573b-2a1b-73b2-a160-3332-1333-ae8e-edfa]
+[2021.11.27 18:38:45] [0000m.00s.129ms] [0] S: Project GUID [9e79-a54d-8fb3-8652-dc46-2513-d462-5160-d142-e263-b19e-edfa]
+[2021.11.27 18:38:45] [0000m.00s.134ms] [0] S: Wrote data to server address file
+[2021.11.27 18:38:45] [0000m.00s.134ms] [0] S: Server startup lock file removed
+[2021.11.27 18:38:45] [0000m.00s.135ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\PADS Projects\DxProjects\PRUEBA\PRUEBA.prj]
+[2021.11.27 18:38:46] [0000m.01s.056ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.11.27 18:38:46] [0000m.01s.056ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.11.27 18:38:46] [0000m.01s.056ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.11.27 18:38:46] [0000m.01s.059ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.11.27 18:38:46] [0000m.01s.059ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.11.27 18:38:46] [0000m.01s.059ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.11.27 18:38:46] [0000m.01s.060ms] [0] S: Local disc access time: 85 us
+[2021.11.27 18:38:46] [0000m.01s.060ms] [0] S: File server access time: 111 us
+[2021.11.27 18:38:46] [0000m.01s.087ms] [0] Single file [C:\PADS Projects\DxProjects\PRUEBA\database\icdb.dat] size [657472 (642.1 kB)]
+[2021.11.27 18:38:46] [0000m.01s.088ms] [1] Single file [C:\PADS Projects\DxProjects\PRUEBA\database\icdb.dat] opened in read-write mode
+[2021.11.27 18:38:46] [0000m.01s.088ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.27 18:38:46] [0000m.01s.088ms] [0] Database GUARD OK: [657472]
+[2021.11.27 18:38:46] [0000m.01s.095ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.27 18:38:46] [0000m.01s.095ms] [0] Database GUARD OK: [657472]
+[2021.11.27 18:38:46] [0000m.01s.095ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.27 18:38:46] [0000m.01s.095ms] [0] Database GUARD OK: [657472]
+[2021.11.27 18:38:46] [0000m.01s.095ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.27 18:38:46] [0000m.01s.096ms] [0] Database GUARD OK: [657472]
+[2021.11.27 18:38:46] [0000m.01s.099ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.27 18:38:46] [0000m.01s.099ms] [0] Database GUARD OK: [657472]
+[2021.11.27 18:38:46] [0000m.01s.099ms] [0] SingleFile: [3d02-bdb3-16b4-c5bd] SFI version check [1009] [1009]
+[2021.11.27 18:38:46] [0000m.01s.118ms] [0] SingleFile: [3d02-bdb3-16b4-c5bd] Database SFI header has been read in [19ms 434us]
+[2021.11.27 18:38:46] [0000m.01s.133ms] [0] iCDB Server PI: Server & plugin session [89]
+[2021.11.27 18:38:46] [0000m.01s.133ms] [0] iCDB Server PI: Opening database [C:\PADS Projects\DxProjects\PRUEBA\database]
+[2021.11.27 18:38:46] [0000m.01s.134ms] [0] iCDB Server PI: Database [C:\PADS Projects\DxProjects\PRUEBA\database] opened
+[2021.11.27 18:38:46] [0000m.01s.270ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.11.27 18:38:46] [0000m.01s.270ms] [0] iCDB Database: Checking constraint definitions version
+[2021.11.27 18:38:46] [0000m.01s.344ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.11.27 18:38:46] [0000m.01s.356ms] [0] iCDB Server PI: Initializing plugins
+[2021.11.27 18:38:46] [0000m.01s.358ms] [0] iCDB Server PI: Plugins initialized
+[2021.11.27 18:38:46] [0000m.01s.359ms] [0] S: iCDB database loaded
+[2021.11.27 18:38:46] [0000m.01s.363ms] [0] S: Starting threads
+[2021.11.27 18:38:46] [0000m.01s.364ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.11.27 18:38:46] [0000m.01s.365ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.11.27 18:38:46] [0000m.01s.371ms] [0] IT: Session [90] for host [LAPTOP-SD3FN94I] user [Engels Garcia] client type[0] clsvrPluginID[0] with process ID [12024] created
+[2021.11.27 18:38:46] [0000m.01s.375ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.11.27 18:38:46] [0000m.01s.376ms] [0] IT: iCDB Server Monitor session [1] for host [LAPTOP-SD3FN94I] user [Engels Garcia] with process ID [17216] created
+[2021.11.27 18:38:46] [0000m.01s.376ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2021.11.27 18:38:46] [0000m.01s.396ms] [1] SC[90]: Registered sub-client [DxD] with ID [1] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:46] [0000m.01s.479ms] [1] CMT: There are [1] clients now: 90
+[2021.11.27 18:38:46] [0000m.01s.695ms] [1] SC[90]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:46] [0000m.01s.720ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-11-27 18.38.46 - auto.zip] with GUID [6331-2d98-bd29-04b8-673b-2a1c-73b2-a160-f8a3-1333-ae8e-edfa]
+[2021.11.27 18:38:46] [0000m.01s.721ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[fa41-ccdb-4109-1747-f3be-2915-4be2-9160-f6e0-cf00-7e2e-4dab] CreationTime[Monday, November 15, 2021 23:20:31] Type[Autosave] Creator[iCDB Server (2021-11-15 19.20.30-18320)] ApplicationName[iCDB Server (2021-11-15 19.20.30-18320)] UserName[Engels Garcia] MachineName[LAPTOP-SD3FN94I] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-11-15 19.20.31 - auto.zip] BackupFileSize[520646] Persistent[FALSE]
+[2021.11.27 18:38:46] [0000m.01s.723ms] [0] PrjBackupMgr: Project Backup file [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-11-15 19.20.31 - auto.zip] with GUID [fa41-ccdb-4109-1747-f3be-2915-4be2-9160-f6e0-cf00-7e2e-4dab] removed
+[2021.11.27 18:38:46] [0000m.01s.725ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[6331-2d98-bd29-04b8-673b-2a1c-73b2-a160-f8a3-1333-ae8e-edfa] CreationTime[Saturday, November 27, 2021 22:38:46] Type[Autosave] Creator[iCDB Server (2021-11-27 18.38.45-6396)] ApplicationName[iCDB Server (2021-11-27 18.38.45-6396)] UserName[Engels Garcia] MachineName[LAPTOP-SD3FN94I] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-11-27 18.38.46 - auto.zip] BackupFileSize[518639] Persistent[FALSE]
+[2021.11.27 18:38:46] [0000m.01s.733ms] [1] SC[90]: Registered sub-client [SymbolEditor] with ID [3] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:46] [0000m.01s.743ms] [1] SC[90]: Registered sub-client [SelectionHolder] with ID [4] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:46] [0000m.01s.904ms] [1] SC[90]: Registered sub-client [Core::DesignListener-317614672-0] with ID [5] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:46] [0000m.01s.912ms] [1] SC[90]: Registered sub-client [BlockCacheDxD:317615536] with ID [6] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:46] [0000m.01s.919ms] [1] SC[90]: Registered sub-client [Core::NetFlatData-13295] with ID [7] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:47] [0000m.02s.031ms] [1] SC[90]: Registered sub-client [SystemDesignDll] with ID [8] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:47] [0000m.02s.049ms] [1] SC[90]: UnRegistered sub-client [SystemDesignDll] with ID [8] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:47] [0000m.02s.056ms] [1] SC[90]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:51] [0000m.06s.555ms] [1] SC[90]: Registered sub-client [DesignSearcher2] with ID [10] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:51] [0000m.06s.579ms] [1] SC[90]: Registered sub-client [HdlProject] with ID [11] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:51] [0000m.06s.602ms] [1] SC[90]: Registered sub-client [Navigator] with ID [12] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:51] [0000m.06s.684ms] [1] SC[90]: Registered sub-client [OutputWindow] with ID [13] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:51] [0000m.06s.698ms] [1] SC[90]: Registered sub-client [PlaceDevice] with ID [14] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:52] [0000m.07s.031ms] [1] SC[90]: Registered sub-client [FFSearch_RBHost] with ID [15] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:52] [0000m.07s.041ms] [1] SC[90]: Registered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:56] [0000m.11s.564ms] [1] SC[90]: Registered sub-client [FFSSelListener] with ID [17] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:56] [0000m.11s.572ms] [1] SC[90]: Registered sub-client [SAE] with ID [18] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:56] [0000m.11s.616ms] [1] SC[90]: Registered sub-client [DxConstraints] with ID [19] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:56] [0000m.11s.624ms] [1] SC[90]: Registered sub-client [CCZAddin] with ID [20] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:56] [0000m.11s.633ms] [1] SC[90]: Registered sub-client [DxThumbnails] with ID [21] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:56] [0000m.11s.642ms] [1] SC[90]: Registered sub-client [MyParts] with ID [22] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:56] [0000m.11s.711ms] [1] SC[90]: Registered sub-client [PinsList] with ID [23] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:57] [0000m.12s.262ms] [1] SC[90]: Registered sub-client [toolboxes] with ID [24] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:57] [0000m.12s.519ms] [1] SC[90]: Registered sub-client [IBDInstanceDialog] with ID [25] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:57] [0000m.12s.540ms] [1] SC[90]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:434345288] with ID [26] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:57] [0000m.12s.725ms] [1] SC[90]: Registered sub-client [SheetConnectorsCacheDxD:1638052737] with ID [27] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:58] [0000m.13s.249ms] [1] SC[90]: Registered sub-client [NetsNamesCollectorDxD:1638052738] with ID [28] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:58] [0000m.13s.391ms] [1] SC[90]: Registered sub-client [PartReplaceUtils] with ID [29] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:58] [0000m.13s.406ms] [1] SC[90]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:58] [0000m.13s.481ms] [1] SC[90]: Registered sub-client [xprob] with ID [31] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:58] [0000m.13s.736ms] [1] SC[90]: Registered sub-client [StartServerClient2cbc] with ID [32] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:38:58] [0000m.13s.740ms] [1] SC[90]: UnRegistered sub-client [StartServerClient2cbc] with ID [32] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:39:06] [0000m.20s.984ms] [1] SC[90]: Registered sub-client [ObjectHolder_649220536] with ID [33] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:39:06] [0000m.20s.990ms] [1] SC[90]: Registered sub-client [BlockCacheDxD:650903560] with ID [34] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:39:06] [0000m.20s.997ms] [1] SC[90]: Registered sub-client [GlobalNetAliasUpdater_649221680] with ID [35] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:39:06] [0000m.21s.004ms] [1] SC[90]: Registered sub-client [IcdbNetProcessorSubClientDxD:650664000] with ID [36] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 18:39:26] [0000m.41s.825ms] [0] DFAMT: File server access time: 258 us
+[2021.11.27 18:47:24] [0008m.39s.587ms] [0] IT: Session [91] for host [LAPTOP-SD3FN94I] user [Engels Garcia] client type[0] clsvrPluginID[0] with process ID [1588] created
+[2021.11.27 18:47:24] [0008m.39s.591ms] [1] SC[91]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [91] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [1588]
+[2021.11.27 18:47:24] [0008m.39s.596ms] [1] CMT: There are [2] clients now: 90, 91
+[2021.11.27 18:47:24] [0008m.39s.885ms] [1] SC[91]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [91] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [1588]
+[2021.11.27 18:47:24] [0008m.39s.924ms] [1] CMT: Removed client [91]
+[2021.11.27 18:47:24] [0008m.39s.925ms] [1] CMT: There are [1] clients now: 90
+[2021.11.27 22:38:46] [0240m.01s.015ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-11-27 22.38.46 - auto.zip] with GUID [e9ef-2971-ca62-4206-6bbe-2a1c-bbe2-a160-f8a3-1333-ae8e-edfa]
+[2021.11.27 22:38:46] [0240m.01s.017ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[48b9-bb17-eac7-4c4e-d71c-b913-81cb-9160-b7dd-bf00-7e2e-4d6b] CreationTime[Monday, November 22, 2021 16:12:45] Type[Autosave] Creator[iCDB Server (2021-11-22 12.12.44-13540)] ApplicationName[iCDB Server (2021-11-22 12.12.44-13540)] UserName[Engels Garcia] MachineName[LAPTOP-SD3FN94I] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-11-22 12.12.45 - auto.zip] BackupFileSize[531001] Persistent[FALSE]
+[2021.11.27 22:38:46] [0240m.01s.018ms] [0] PrjBackupMgr: Project Backup file [C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-11-22 12.12.45 - auto.zip] with GUID [48b9-bb17-eac7-4c4e-d71c-b913-81cb-9160-b7dd-bf00-7e2e-4d6b] removed
+[2021.11.27 22:38:46] [0240m.01s.019ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[e9ef-2971-ca62-4206-6bbe-2a1c-bbe2-a160-f8a3-1333-ae8e-edfa] CreationTime[Sunday, November 28, 2021 02:38:46] Type[Autosave] Creator[iCDB Server (2021-11-27 18.38.45-6396)] ApplicationName[iCDB Server (2021-11-27 18.38.45-6396)] UserName[Engels Garcia] MachineName[LAPTOP-SD3FN94I] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\PRUEBA\ProjectBackup\backups\2021-11-27 22.38.46 - auto.zip] BackupFileSize[519206] Persistent[FALSE]
+[2021.11.27 23:40:33] [0301m.48s.081ms] [1] SC[90]: UnRegistered sub-client [SystemDesignDll] with ID [9] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:33] [0301m.48s.400ms] [1] SC[90]: UnRegistered sub-client [DesignSearcher2] with ID [10] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:33] [0301m.48s.616ms] [1] SC[90]: UnRegistered sub-client [GlobalNetAliasUpdater_649221680] with ID [35] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:33] [0301m.48s.617ms] [1] SC[90]: UnRegistered sub-client [BlockCacheDxD:650903560] with ID [34] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:33] [0301m.48s.617ms] [1] SC[90]: UnRegistered sub-client [ObjectHolder_649220536] with ID [33] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:33] [0301m.48s.618ms] [1] SC[90]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:650664000] with ID [36] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:33] [0301m.48s.626ms] [1] SC[90]: UnRegistered sub-client [Navigator] with ID [12] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:33] [0301m.48s.632ms] [1] SC[90]: UnRegistered sub-client [FFSSelListener] with ID [17] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:33] [0301m.48s.723ms] [1] SC[90]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:33] [0301m.48s.853ms] [1] SC[90]: UnRegistered sub-client [FFSearch_RBHost] with ID [15] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:33] [0301m.48s.875ms] [1] SC[90]: UnRegistered sub-client [MyParts] with ID [22] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:35] [0301m.50s.200ms] [1] SC[90]: UnRegistered sub-client [toolboxes] with ID [24] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:35] [0301m.50s.261ms] [1] SC[90]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:35] [0301m.50s.262ms] [1] SC[90]: UnRegistered sub-client [PartReplaceUtils] with ID [29] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:35] [0301m.50s.262ms] [1] SC[90]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:35] [0301m.50s.750ms] [1] SC[90]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:434345288] with ID [26] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:35] [0301m.50s.750ms] [1] SC[90]: UnRegistered sub-client [SheetConnectorsCacheDxD:1638052737] with ID [27] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:35] [0301m.50s.751ms] [1] SC[90]: UnRegistered sub-client [NetsNamesCollectorDxD:1638052738] with ID [28] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:35] [0301m.50s.760ms] [1] SC[90]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:35] [0301m.50s.761ms] [1] SC[90]: UnRegistered sub-client [DxD] with ID [1] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:35] [0301m.50s.777ms] [1] SC[90]: UnRegistered sub-client [xprob] with ID [31] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:35] [0301m.50s.778ms] [1] SC[90]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:35] [0301m.50s.806ms] [1] SC[90]: UnRegistered sub-client [OutputWindow] with ID [13] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:35] [0301m.50s.868ms] [1] SC[90]: UnRegistered sub-client [SAE] with ID [18] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:36] [0301m.50s.944ms] [1] SC[90]: UnRegistered sub-client [CCZAddin] with ID [20] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:36] [0301m.50s.963ms] [1] SC[90]: UnRegistered sub-client [DxThumbnails] with ID [21] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:42] [0301m.57s.500ms] [1] SC[90]: UnRegistered sub-client [DxConstraints] with ID [19] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:42] [0301m.57s.563ms] [1] SC[90]: UnRegistered sub-client [PinsList] with ID [23] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:42] [0301m.57s.637ms] [1] SC[90]: UnRegistered sub-client [PlaceDevice] with ID [14] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:42] [0301m.57s.703ms] [1] SC[90]: UnRegistered sub-client [IBDInstanceDialog] with ID [25] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:42] [0301m.57s.707ms] [1] SC[90]: UnRegistered sub-client [HdlProject] with ID [11] for session ID [90] host [LAPTOP-SD3FN94I] user [Engels Garcia] process ID [12024]
+[2021.11.27 23:40:42] [0301m.57s.790ms] [1] SC[90]: WARNING: Trying to get data for non existing sub-client [3]
+[2021.11.27 23:40:43] [0301m.58s.006ms] [0] SC[90]: ERROR: Receiving command: Socket Exception: Category[Socket] Error[ReceiveFailed] Description[Could not receive data from peer; ECONNRESET - Connection reset by peer.] Message[Receiving network command with timeout]
+[2021.11.27 23:40:43] [0301m.58s.007ms] [0] SC[90]: Setting status to OFFLINE
+[2021.11.27 23:40:43] [0301m.58s.011ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2021.11.27 23:40:43] [0301m.58s.068ms] [1] CMT: Trying to remove local offline client [90] because of single-user mode
+[2021.11.27 23:40:43] [0301m.58s.068ms] [0] CRT[90]: EXIT: Because of client death
+[2021.11.27 23:40:43] [0301m.58s.085ms] [1] CMT: Removed local offline client [90] because of single-user mode
+[2021.11.27 23:40:43] [0301m.58s.085ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.11.27 23:40:45] [0301m.59s.943ms] [0] CMT: Starting server auto-close
+[2021.11.27 23:40:45] [0301m.59s.959ms] [0] S: Closing server
+[2021.11.27 23:40:45] [0302m.00s.103ms] [0] iCDB Server PI: Closing plugins
+[2021.11.27 23:40:45] [0302m.00s.104ms] [0] iCDB Server PI: Plugins closed
+[2021.11.27 23:40:45] [0302m.00s.104ms] [0] iCDB Server PI: Unloading database
+[2021.11.27 23:40:45] [0302m.00s.109ms] [0] iCDB Server PI: Saving storage
+[2021.11.27 23:40:45] [0302m.00s.109ms] [0] iCDB Server PI: Closing database
+[2021.11.27 23:40:45] [0302m.00s.109ms] [1] Hole: zero line at 657340 of size 8 bytes.
+[2021.11.27 23:40:45] [0302m.00s.123ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[27%] data[88%]
+[2021.11.27 23:40:45] [0302m.00s.123ms] [1] iCDB Server PI: Stats: Database file size [657472 (642.1 kB)]
+[2021.11.27 23:40:45] [0302m.00s.123ms] [1] Hole: zero line at 657340 of size 8 bytes.
+[2021.11.27 23:40:45] [0302m.00s.127ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2021.11.27 23:40:45] [0302m.00s.139ms] [0] iCDB Server PI: Database closed
+[2021.11.27 23:40:45] [0302m.00s.139ms] [0] iCDB Server PI: Defragmenting database
+[2021.11.27 23:40:45] [0302m.00s.149ms] [0] iCDB Server PI: Creating database [C:\PADS Projects\DxProjects\PRUEBA\database] backup to file [C:\PADS Projects\DxProjects\PRUEBA\database\cdbback\2021-11-27 23.40.45-6396-d.zip]
+[2021.11.27 23:40:45] [0302m.00s.198ms] [0] iCDB Server PI: Database backup: DONE
+[2021.11.27 23:40:45] [0302m.00s.219ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.27 23:40:45] [0302m.00s.219ms] [0] Database GUARD OK: [657472]
+[2021.11.27 23:40:45] [0302m.00s.219ms] [0] SingleFile: [3d02-bdb3-16b4-c5bd] SFI version check [1009] [1009]
+[2021.11.27 23:40:45] [0302m.00s.226ms] [0] SingleFile: [3d02-bdb3-16b4-c5bd] Database SFI header has been read in [7ms 916us]
+[2021.11.27 23:40:45] [0302m.00s.280ms] [1] iCDB Server PI: Stats: Database file sizes: before[657472 (642.1 kB)], after[483968 (472.6 kB)], gain[173504 (169.4 kB)]
+[2021.11.27 23:40:45] [0302m.00s.286ms] [0] Single file [C:\PADS Projects\DxProjects\PRUEBA\database\icdb.dat] closed with size [483968 (472.6 kB)]
+[2021.11.27 23:40:45] [0302m.00s.291ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2021.11.27 23:40:45] [0302m.00s.291ms] [1] BackupTransaction: Removing database backup [C:\PADS Projects\DxProjects\PRUEBA\database\cdbback\2021-11-27 23.40.45-6396-d.zip]
+[2021.11.27 23:40:45] [0302m.00s.292ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [830080] ticks
+[2021.11.27 23:40:45] [0302m.00s.292ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [83008] microseconds
+[2021.11.27 23:40:45] [0302m.00s.292ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [36]
+[2021.11.27 23:40:45] [0302m.00s.292ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [433] commands per second
+[2021.11.27 23:40:45] [0302m.00s.292ms] [1] iCDB Server PI: Stats: Mem[33210368]
+[2021.11.27 23:40:45] [0302m.00s.292ms] [1] iCDB Server PI: Stats: MemPeak[45625344]
+[2021.11.27 23:40:45] [0302m.00s.349ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2021.11.27 23:40:45] [0302m.00s.583ms] [0] MWT: Destroy the shutdown block reason.
+[2021.11.27 23:40:45] [0302m.00s.585ms] [0] MWT: STOP
+[2021.11.27 23:40:45] [0302m.00s.585ms] [0] S: STOP

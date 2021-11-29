@@ -1,0 +1,19 @@
+PADS Layout ECO Generator (Version 6.4v) 11/22/2021 12:43:27 PM
+Restricted Copyright Siemens 2020. All Rights Reserved
+Command line arguments:  -e C:\PADS Projects\DxProjects\PRUEBA\Log Files\ECOGEN.ERR -r p -a PCB,PART,NET,PIN
+1 msec
+1 msec
+Reading the OLD DESIGN
+There are 129 parts in the design
+There are 103 signals in the design
+There are 383 pins in the design
+5 msec
+Reading the NEW DESIGN
+There are 129 parts in the design
+There are 103 signals in the design
+There are 384 pins in the design
+3 msec
+Final cost=16
+Partitioning - 1 msec
+Final Matching - 1 msec
+Deleted pins: 0,  Added pins: 1
